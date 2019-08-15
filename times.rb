@@ -1,5 +1,6 @@
 def using_times
-	#Output the string"
+	#Output the string "Wingardium Leviosa" seven times 
+	
 end
 
 
